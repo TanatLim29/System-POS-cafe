@@ -1,5 +1,4 @@
 
-
 const Timer = () => {
   return (
     <section
